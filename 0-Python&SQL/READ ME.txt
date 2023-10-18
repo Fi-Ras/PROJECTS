@@ -4,4 +4,4 @@ In this file, you will find: 🧐
 
 0- DIRTY DATA (CSV files) 🌪
 1- DATA PREPARATION (Python file) 🐍
-2- DATA MANAGEMENT (SQL File) 🧩
+2- DATA MANAGEMENT (SQL Files) 🧩
