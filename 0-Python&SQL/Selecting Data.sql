@@ -1,11 +1,16 @@
+-- SHOW AVAILABLE DATABASES
 SHOW DATABASES;
 
+-- To start drop Database if exits already
 DROP DATABASE DATA_C;
 
+-- Create a new DATABASE called DATA_C
 CREATE DATABASE DATA_C;
 
+-- Use the Created DATABASE
 USE DATA_C;
 
+--  Create films table 
 CREATE TABLE films (
     id INT NOT NULL,
     title CHAR(255),
@@ -18,10 +23,13 @@ CREATE TABLE films (
     budget FLOAT
 ) ;
 
+-- Show films table (It is empty now)
 SHOW TABLES;
 
+-- Make sure that the table is empty
 SELECT * FROM films; 
 
+-- Using the informations in the Excel files insert informations into the films table (Since our SQL version's limited we'll insert 1000 line)
 INSERT INTO films 
 (
     id,
@@ -1036,13 +1044,13 @@ VALUES
 (999, 'Starship Troopers', 1997, 'USA', 129, 'English', 'R', 54700065, 105000000),
 (1000, 'Steel', 1997, 'USA', 97, 'English', 'PG-13', 1686429, 16000000);
 
+-- Create people films and insert informations using the Excel file
 CREATE TABLE people ( 
     
     id INT NOT NULL,
     name CHAR(100),
     birthdate CHAR(100),
     deathdate CHAR(100)
-    
 ) ;
 
 
@@ -2055,6 +2063,7 @@ VALUES
 (999, 'Brian Whitaker', NULL, NULL),
 (1000, 'Brian Yuzna', NULL, NULL);
 
+-- Same for reviews & roles tables 
 CREATE TABLE reviews ( 
     
     film_id INT NOT NULL,
@@ -3085,7 +3094,6 @@ CREATE TABLE roles (
     role CHAR(50)   
 ) ;
 
-
 INSERT INTO roles 
 (
     id,
@@ -4095,28 +4103,41 @@ VALUES
 (999, 251, 985, 'actor'),
 (1000, 251, 4326, 'actor');
 
+
+---- Count the number of records in the films table
 SELECT COUNT(*) FROM 
 films;
 
+-- return only first 5 lines of certification in films table
 SELECT certification
 FROM films
 LIMIT 5;
 
+---- Count the number of records in the reviews table
 SELECT COUNT(*) FROM 
 reviews;
 
+-- return film_id, imdb_score, num_votes from reviews table
 SELECT film_id, imdb_score, num_votes
 FROM reviews;
 
+---- Count the number of records in the people table
 SELECT COUNT(*) FROM 
 people; 
 
+-- -- Count the number of birthdate in the people table
 SELECT COUNT(birthdate) AS count_birthdays
 FROM people;
 
+-- Return both results together
+SELECT COUNT(*) AS All_records, COUNT(birthdate) AS count_birthdays FROM 
+people; 
+
+-- Count the number of records in the roles table
 SELECT COUNT(*) FROM 
 roles;
 
+-- Adjust the sample code so that it is in line with standard practices
 SELECT 
 person_id, 
 role 
