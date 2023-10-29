@@ -1,300 +1,300 @@
-"id","team_api_id","team_long_name","team_short_name"
-1,9987,"KRC Genk","GEN"
-2,9993,"Beerschot AC","BAC"
-3,10000,"SV Zulte-Waregem","ZUL"
-4,9994,"Sporting Lokeren","LOK"
-5,9984,"KSV Cercle Brugge","CEB"
-6,8635,"RSC Anderlecht","AND"
-7,9991,"KAA Gent","GEN"
-8,9998,"RAEC Mons","MON"
-9,7947,"FCV Dender EH","DEN"
-10,9985,"Standard de Liège","STL"
-11,8203,"KV Mechelen","MEC"
-12,8342,"Club Brugge KV","CLB"
-13,9999,"KSV Roeselare","ROS"
-14,8571,"KV Kortrijk","KOR"
-15,4049,"Tubize","TUB"
-16,9996,"Royal Excel Mouscron","MOU"
-17,10001,"KVC Westerlo","WES"
-18,9986,"Sporting Charleroi","CHA"
-614,9997,"Sint-Truidense VV","STT"
-1034,9989,"Lierse SK","LIE"
-1042,6351,"KAS Eupen","EUP"
-1513,1773,"Oud-Heverlee Leuven","O-H"
-2004,8475,"Waasland-Beveren","WAA"
-2476,8573,"KV Oostende","OOS"
-2510,274581,"Royal Excel Mouscron","MOP"
-3457,10260,"Manchester United","MUN"
-3458,10261,"Newcastle United","NEW"
-3459,9825,"Arsenal","ARS"
-3460,8659,"West Bromwich Albion","WBA"
-3461,8472,"Sunderland","SUN"
-3462,8650,"Liverpool","LIV"
-3463,8654,"West Ham United","WHU"
-3464,8528,"Wigan Athletic","WIG"
-3465,10252,"Aston Villa","AVL"
-3466,8456,"Manchester City","MCI"
-3467,8668,"Everton","EVE"
-3468,8655,"Blackburn Rovers","BLB"
-3469,8549,"Middlesbrough","MID"
-3470,8586,"Tottenham Hotspur","TOT"
-3471,8559,"Bolton Wanderers","BOL"
-3472,10194,"Stoke City","STK"
-3473,8667,"Hull City","HUL"
-3474,9879,"Fulham","FUL"
-3475,8455,"Chelsea","CHE"
-3476,8462,"Portsmouth","POR"
-4218,8658,"Birmingham City","BIR"
-4225,8602,"Wolverhampton Wanderers","WOL"
-4234,8191,"Burnley","BUR"
-4996,8483,"Blackpool","BLA"
-5744,10003,"Swansea City","SWA"
-5747,10172,"Queens Park Rangers","QPR"
-5756,9850,"Norwich City","NOR"
-6504,8466,"Southampton","SOU"
-6509,9798,"Reading","REA"
-7261,9826,"Crystal Palace","CRY"
-7276,8344,"Cardiff City","CAR"
-8021,8197,"Leicester City","LEI"
-8779,8678,"Bournemouth","BOU"
-8784,9817,"Watford","WAT"
-9537,8583,"AJ Auxerre","AUX"
-9538,9830,"FC Nantes","NAN"
-9539,9827,"Girondins de Bordeaux","BOR"
-9540,7819,"SM Caen","CAE"
-9541,9746,"Le Havre AC","LEH"
-9542,9831,"OGC Nice","NIC"
-9543,8682,"Le Mans FC","LEM"
-9544,8689,"FC Lorient","LOR"
-9545,9748,"Olympique Lyonnais","LYO"
-9546,9941,"Toulouse FC","TOU"
-9547,9829,"AS Monaco","MON"
-9548,9847,"Paris Saint-Germain","PSG"
-9549,8481,"AS Nancy-Lorraine","NAN"
-9550,8639,"LOSC Lille","LIL"
-9551,9851,"Stade Rennais FC","REN"
-9552,8592,"Olympique de Marseille","MAR"
-9553,9874,"FC Sochaux-Montbéliard","SOC"
-9554,9855,"Grenoble Foot 38","GRE"
-9555,9873,"Valenciennes FC","VAL"
-9556,9853,"AS Saint-Étienne","ETI"
-10300,8588,"RC Lens","LEN"
-10309,10249,"Montpellier Hérault SC","MON"
-10312,4170,"US Boulogne Cote D'Opale","BOU"
-11074,108893,"AC Arles-Avignon","ARL"
-11076,8521,"Stade Brestois 29","BRE"
-11817,8576,"AC Ajaccio","AJA"
-11822,4087,"Évian Thonon Gaillard FC","ETG"
-11825,9836,"Dijon FCO","DIJ"
-12587,9837,"Stade de Reims","REI"
-12594,7794,"SC Bastia","BAS"
-12595,10242,"ES Troyes AC","TRO"
-13343,9747,"En Avant de Guingamp","GUI"
-14106,8550,"FC Metz","MET"
-14868,8121,"Angers SCO","ANG"
-14876,6391,"GFC Ajaccio","GAJ"
-15617,9823,"FC Bayern Munich","BMU"
-15618,9790,"Hamburger SV","HAM"
-15619,8178,"Bayer 04 Leverkusen","LEV"
-15620,9789,"Borussia Dortmund","DOR"
-15621,10189,"FC Schalke 04","S04"
-15622,9904,"Hannover 96","HAN"
-15623,8721,"VfL Wolfsburg","WOL"
-15624,8722,"1. FC Köln","FCK"
-15625,9810,"Eintracht Frankfurt","EFR"
-15626,8177,"Hertha BSC Berlin","HBE"
-15627,9912,"DSC Arminia Bielefeld","BIE"
-15628,8697,"SV Werder Bremen","WBR"
-15629,8398,"FC Energie Cottbus","COT"
-15630,8226,"TSG 1899 Hoffenheim","HOF"
-15631,9788,"Borussia Mönchengladbach","GLA"
-15632,10269,"VfB Stuttgart","STU"
-15633,8295,"Karlsruher SC","KAR"
-15634,9911,"VfL Bochum","BOC"
-16237,8358,"SC Freiburg","FRE"
-16239,8165,"1. FC Nürnberg","NUR"
-16243,9905,"1. FSV Mainz 05","MAI"
-16848,8350,"1. FC Kaiserslautern","KAI"
-16850,8152,"FC St. Pauli","STP"
-17465,8406,"FC Augsburg","AUG"
-18074,8194,"Fortuna Düsseldorf","FDU"
-18079,8357,"SpVgg Greuther Fürth","GRF"
-18691,9776,"Eintracht Braunschweig","BRA"
-19305,8460,"SC Paderborn 07","PAD"
-19916,8234,"FC Ingolstadt 04","ING"
-19917,8262,"SV Darmstadt 98","DAR"
-20513,8524,"Atalanta","ATA"
-20514,8551,"Siena","SIE"
-20515,8529,"Cagliari","CAG"
-20516,8543,"Lazio","LAZ"
-20517,8530,"Catania","CAT"
-20518,10233,"Genoa","GEN"
-20519,8533,"Chievo Verona","CHI"
-20520,8690,"Reggio Calabria","REG"
-20521,8535,"Fiorentina","FIO"
-20522,9885,"Juventus","JUV"
-20523,8564,"Milan","ACM"
-20524,9857,"Bologna","BOL"
-20525,8686,"Roma","ROM"
-20526,9875,"Napoli","NAP"
-20527,9882,"Sampdoria","SAM"
-20528,8636,"Inter","INT"
-20529,9804,"Torino","TOR"
-20530,9888,"Lecce","LEC"
-20531,8600,"Udinese","UDI"
-20532,8540,"Palermo","PAL"
-21280,9976,"Bari","BAR"
-21285,8537,"Livorno","LIV"
-21292,10167,"Parma","PAR"
-22042,9880,"Cesena","CES"
-22044,9858,"Brescia","BRE"
-22805,6269,"Novara","NOV"
-23523,9878,"Pescara","PES"
-24273,9876,"Hellas Verona","VER"
-24288,7943,"Sassuolo","SAS"
-25048,8534,"Empoli","EMP"
-25791,9891,"Frosinone","FRO"
-25804,208931,"Carpi","CAP"
-26547,8277,"Vitesse","VIT"
-26548,8674,"FC Groningen","GRO"
-26549,9803,"Roda JC Kerkrade","ROD"
-26550,8611,"FC Twente","TWE"
-26551,8525,"Willem II","WII"
-26552,8593,"Ajax","AJA"
-26553,8464,"N.E.C.","NEC"
-26554,8526,"De Graafschap","GRA"
-26555,9908,"FC Utrecht","UTR"
-26556,8640,"PSV","PSV"
-26557,9791,"Heracles Almelo","HER"
-26558,10235,"Feyenoord","FEY"
-26559,8614,"Sparta Rotterdam","SPA"
-26560,10217,"ADO Den Haag","HAA"
-26561,6601,"FC Volendam","VOL"
-26562,10228,"SC Heerenveen","HEE"
-26563,10229,"AZ","ALK"
-26564,9761,"NAC Breda","NAC"
-27161,10219,"RKC Waalwijk","RKC"
-27168,9839,"VVV-Venlo","VEN"
-27780,10218,"Excelsior","EXC"
-29000,6413,"PEC Zwolle","ZWO"
-29617,7788,"SC Cambuur","CAM"
-29624,6433,"Go Ahead Eagles","GAE"
-30222,6631,"FC Dordrecht","DOR"
-31443,10265,"Wisła Kraków","WIS"
-31444,8031,"Polonia Bytom","POB"
-31445,8020,"Polonia Bytom","GOR"
-31446,1601,"Ruch Chorzów","CHO"
-31447,8673,"Legia Warszawa","LEG"
-31448,2183,"P. Warszawa","PWA"
-31449,8025,"Śląsk Wrocław","SLA"
-31450,8030,"Lechia Gdańsk","LGD"
-31451,8244,"Widzew Łódź","LOD"
-31452,8242,"Odra Wodzisław","ODR"
-31453,2182,"Lech Poznań","POZ"
-31454,8569,"GKS Bełchatów","BEL"
-31455,8322,"Arka Gdynia","ARK"
-31456,1957,"Jagiellonia Białystok","BIA"
-31457,8028,"Piast Gliwice","PIG"
-31458,2186,"Cracovia","CKR"
-31925,8245,"Korona Kielce","KKI"
-31928,8021,"Zagłębie Lubin","ZAG"
-32409,8024,"Widzew Łódź","WID"
-32891,8033,"Podbeskidzie Bielsko-Biała","POD"
-33377,8023,"Pogoń Szczecin","POG"
-33855,8027,"Zawisza Bydgoszcz","ZAW"
-34337,8019,"Górnik Łęczna","LEC"
-34816,177361,"Termalica Bruk-Bet Nieciecza","TBN"
-35283,9773,"FC Porto","POR"
-35284,9807,"CF Os Belenenses","BEL"
-35285,9768,"Sporting CP","SCP"
-35286,7992,"Trofense","TRO"
-35287,7844,"Vitória Guimarães","GUI"
-35288,10238,"Vitória Setúbal","SET"
-35289,6403,"FC Paços de Ferreira","FER"
-35290,10264,"SC Braga","BRA"
-35291,10213,"Amadora","AMA"
-35292,10215,"Académica de Coimbra","ACA"
-35293,7841,"Rio Ave FC","RA"
-35294,9772,"SL Benfica","BEN"
-35295,6421,"Leixões SC","LEI"
-35296,10214,"CD Nacional","NAC"
-35297,9809,"Naval 1° de Maio","NAV"
-35298,10212,"CS Marítimo","MAR"
-35769,9771,"""União de Leiria, SAD""","ULE"
-35774,2033,"S.C. Olhanense","OLH"
-36248,9765,"Portimonense","POR"
-36253,10211,"SC Beira Mar","B-M"
-36723,4064,"Feirense","FEI"
-36735,9764,"Gil Vicente FC","GV"
-37210,8348,"Moreirense FC","MOR"
-37214,7842,"Estoril Praia","EST"
-37696,158085,"FC Arouca","ARO"
-38173,6547,"FC Penafiel","PEN"
-38176,8613,"Boavista FC","BOA"
-38789,6367,"Uniao da Madeira","MAD"
-38791,188163,"Tondela","TON"
-39387,8596,"Falkirk","FAL"
-39388,8548,"Rangers","RAN"
-39389,9860,"Heart of Midlothian","HEA"
-39390,9927,"Motherwell","MOT"
-39391,8597,"Kilmarnock","KIL"
-39392,10251,"Hibernian","HIB"
-39393,8485,"Aberdeen","ABE"
-39394,8066,"Inverness Caledonian Thistle","INV"
-39395,9925,"Celtic","CEL"
-39396,9800,"St. Mirren","MIR"
-39397,8429,"Hamilton Academical FC","HAM"
-39398,9938,"Dundee United","DUU"
-39853,8467,"St. Johnstone FC","JOH"
-40757,8457,"Dunfermline Athletic","DUN"
-41216,8284,"Dundee FC","DUF"
-41217,8649,"Ross County FC","ROS"
-41673,8426,"Partick Thistle F.C.","PAR"
-43035,10267,"Valencia CF","VAL"
-43036,8661,"RCD Mallorca","MAL"
-43037,8371,"CA Osasuna","OSA"
-43038,10205,"Villarreal CF","VIL"
-43039,9783,"RC Deportivo de La Coruña","COR"
-43040,8633,"Real Madrid CF","REA"
-43041,8388,"CD Numancia","NUM"
-43042,8634,"FC Barcelona","BAR"
-43043,8696,"Racing Santander","SAN"
-43044,8302,"Sevilla FC","SEV"
-43045,9869,"Real Sporting de Gijón","SPG"
-43046,8305,"Getafe CF","GET"
-43047,8603,"Real Betis Balompié","BET"
-43048,8479,"RC Recreativo","HUE"
-43049,8558,"RCD Espanyol","ESP"
-43050,10281,"Real Valladolid","VAL"
-43051,8315,"Athletic Club de Bilbao","BIL"
-43052,9865,"UD Almería","ALM"
-43053,9906,"Atlético Madrid","AMA"
-43054,9864,"Málaga CF","MAL"
-43800,9868,"Xerez Club Deportivo","XER"
-43803,8394,"Real Zaragoza","ZAR"
-43804,9867,"CD Tenerife","TEN"
-44557,10278,"Hércules Club de Fútbol","HER"
-44565,8581,"Levante UD","LEV"
-44569,8560,"Real Sociedad","SOC"
-45330,7878,"Granada CF","GRA"
-45333,8370,"Rayo Vallecano","RAY"
-46087,9910,"RC Celta de Vigo","CEL"
-46848,10268,"Elche CF","ELC"
-47605,8372,"SD Eibar","EIB"
-47612,7869,"Córdoba CF","COR"
-48358,8306,"UD Las Palmas","LAS"
-49115,9956,"Grasshopper Club Zürich","GRA"
-49116,6493,"AC Bellinzona","BEL"
-49117,10192,"BSC Young Boys","YB"
-49118,9931,"FC Basel","BAS"
-49119,9930,"FC Aarau","AAR"
-49120,10179,"FC Sion","SIO"
-49121,10199,"FC Luzern","LUZ"
-49122,9824,"FC Vaduz","VAD"
-49123,7955,"Neuchâtel Xamax","XAM"
-49124,10243,"FC Zürich","ZUR"
-49479,10190,"FC St. Gallen","GAL"
-49837,10191,"FC Thun","THU"
-50201,9777,"Servette FC","SER"
-50204,7730,"FC Lausanne-Sports","LAU"
-51606,7896,"Lugano","LUG"
+id,team_api_id,team_long_name,team_short_name
+1,9987,KRCGenk,GEN
+2,9993,BeerschotAC,BAC
+3,10000,SVZulteWaregem,ZUL
+4,9994,SportingLokeren,LOK
+5,9984,KSVCercleBrugge,CEB
+6,8635,RSCAnderlecht,AND
+7,9991,KAAGent,GEN
+8,9998,RAECMons,MON
+9,7947,FCVDenderEH,DEN
+10,9985,StandarddeLige,STL
+11,8203,KVMechelen,MEC
+12,8342,ClubBruggeKV,CLB
+13,9999,KSVRoeselare,ROS
+14,8571,KVKortrijk,KOR
+15,4049,Tubize,TUB
+16,9996,RoyalExcelMouscron,MOU
+17,10001,KVCWesterlo,WES
+18,9986,SportingCharleroi,CHA
+614,9997,SintTruidenseVV,STT
+1034,9989,LierseSK,LIE
+1042,6351,KASEupen,EUP
+1513,1773,OudHeverleeLeuven,OH
+2004,8475,WaaslandBeveren,WAA
+2476,8573,KVOostende,OOS
+2510,274581,RoyalExcelMouscron,MOP
+3457,10260,ManchesterUnited,MUN
+3458,10261,NewcastleUnited,NEW
+3459,9825,Arsenal,ARS
+3460,8659,WestBromwichAlbion,WBA
+3461,8472,Sunderland,SUN
+3462,8650,Liverpool,LIV
+3463,8654,WestHamUnited,WHU
+3464,8528,WiganAthletic,WIG
+3465,10252,AstonVilla,AVL
+3466,8456,ManchesterCity,MCI
+3467,8668,Everton,EVE
+3468,8655,BlackburnRovers,BLB
+3469,8549,Middlesbrough,MID
+3470,8586,TottenhamHotspur,TOT
+3471,8559,BoltonWanderers,BOL
+3472,10194,StokeCity,STK
+3473,8667,HullCity,HUL
+3474,9879,Fulham,FUL
+3475,8455,Chelsea,CHE
+3476,8462,Portsmouth,POR
+4218,8658,BirminghamCity,BIR
+4225,8602,WolverhamptonWanderers,WOL
+4234,8191,Burnley,BUR
+4996,8483,Blackpool,BLA
+5744,10003,SwanseaCity,SWA
+5747,10172,QueensParkRangers,QPR
+5756,9850,NorwichCity,NOR
+6504,8466,Southampton,SOU
+6509,9798,Reading,REA
+7261,9826,CrystalPalace,CRY
+7276,8344,CardiffCity,CAR
+8021,8197,LeicesterCity,LEI
+8779,8678,Bournemouth,BOU
+8784,9817,Watford,WAT
+9537,8583,AJAuxerre,AUX
+9538,9830,FCNantes,NAN
+9539,9827,GirondinsdeBordeaux,BOR
+9540,7819,SMCaen,CAE
+9541,9746,LeHavreAC,LEH
+9542,9831,OGCNice,NIC
+9543,8682,LeMansFC,LEM
+9544,8689,FCLorient,LOR
+9545,9748,OlympiqueLyonnais,LYO
+9546,9941,ToulouseFC,TOU
+9547,9829,ASMonaco,MON
+9548,9847,ParisSaintGermain,PSG
+9549,8481,ASNancyLorraine,NAN
+9550,8639,LOSCLille,LIL
+9551,9851,StadeRennaisFC,REN
+9552,8592,OlympiquedeMarseille,MAR
+9553,9874,FCSochauxMontbliard,SOC
+9554,9855,GrenobleFoot38,GRE
+9555,9873,ValenciennesFC,VAL
+9556,9853,ASSainttienne,ETI
+10300,8588,RCLens,LEN
+10309,10249,MontpellierHraultSC,MON
+10312,4170,USBoulogneCoteDOpale,BOU
+11074,108893,ACArlesAvignon,ARL
+11076,8521,StadeBrestois29,BRE
+11817,8576,ACAjaccio,AJA
+11822,4087,vianThononGaillardFC,ETG
+11825,9836,DijonFCO,DIJ
+12587,9837,StadedeReims,REI
+12594,7794,SCBastia,BAS
+12595,10242,ESTroyesAC,TRO
+13343,9747,EnAvantdeGuingamp,GUI
+14106,8550,FCMetz,MET
+14868,8121,AngersSCO,ANG
+14876,6391,GFCAjaccio,GAJ
+15617,9823,FCBayernMunich,BMU
+15618,9790,HamburgerSV,HAM
+15619,8178,Bayer04Leverkusen,LEV
+15620,9789,BorussiaDortmund,DOR
+15621,10189,FCSchalke04,S04
+15622,9904,Hannover96,HAN
+15623,8721,VfLWolfsburg,WOL
+15624,8722,1FCKln,FCK
+15625,9810,EintrachtFrankfurt,EFR
+15626,8177,HerthaBSCBerlin,HBE
+15627,9912,DSCArminiaBielefeld,BIE
+15628,8697,SVWerderBremen,WBR
+15629,8398,FCEnergieCottbus,COT
+15630,8226,TSG1899Hoffenheim,HOF
+15631,9788,BorussiaMnchengladbach,GLA
+15632,10269,VfBStuttgart,STU
+15633,8295,KarlsruherSC,KAR
+15634,9911,VfLBochum,BOC
+16237,8358,SCFreiburg,FRE
+16239,8165,1FCNrnberg,NUR
+16243,9905,1FSVMainz05,MAI
+16848,8350,1FCKaiserslautern,KAI
+16850,8152,FCStPauli,STP
+17465,8406,FCAugsburg,AUG
+18074,8194,FortunaDsseldorf,FDU
+18079,8357,SpVggGreutherFrth,GRF
+18691,9776,EintrachtBraunschweig,BRA
+19305,8460,SCPaderborn07,PAD
+19916,8234,FCIngolstadt04,ING
+19917,8262,SVDarmstadt98,DAR
+20513,8524,Atalanta,ATA
+20514,8551,Siena,SIE
+20515,8529,Cagliari,CAG
+20516,8543,Lazio,LAZ
+20517,8530,Catania,CAT
+20518,10233,Genoa,GEN
+20519,8533,ChievoVerona,CHI
+20520,8690,ReggioCalabria,REG
+20521,8535,Fiorentina,FIO
+20522,9885,Juventus,JUV
+20523,8564,Milan,ACM
+20524,9857,Bologna,BOL
+20525,8686,Roma,ROM
+20526,9875,Napoli,NAP
+20527,9882,Sampdoria,SAM
+20528,8636,Inter,INT
+20529,9804,Torino,TOR
+20530,9888,Lecce,LEC
+20531,8600,Udinese,UDI
+20532,8540,Palermo,PAL
+21280,9976,Bari,BAR
+21285,8537,Livorno,LIV
+21292,10167,Parma,PAR
+22042,9880,Cesena,CES
+22044,9858,Brescia,BRE
+22805,6269,Novara,NOV
+23523,9878,Pescara,PES
+24273,9876,HellasVerona,VER
+24288,7943,Sassuolo,SAS
+25048,8534,Empoli,EMP
+25791,9891,Frosinone,FRO
+25804,208931,Carpi,CAP
+26547,8277,Vitesse,VIT
+26548,8674,FCGroningen,GRO
+26549,9803,RodaJCKerkrade,ROD
+26550,8611,FCTwente,TWE
+26551,8525,WillemII,WII
+26552,8593,Ajax,AJA
+26553,8464,NEC,NEC
+26554,8526,DeGraafschap,GRA
+26555,9908,FCUtrecht,UTR
+26556,8640,PSV,PSV
+26557,9791,HeraclesAlmelo,HER
+26558,10235,Feyenoord,FEY
+26559,8614,SpartaRotterdam,SPA
+26560,10217,ADODenHaag,HAA
+26561,6601,FCVolendam,VOL
+26562,10228,SCHeerenveen,HEE
+26563,10229,AZ,ALK
+26564,9761,NACBreda,NAC
+27161,10219,RKCWaalwijk,RKC
+27168,9839,VVVVenlo,VEN
+27780,10218,Excelsior,EXC
+29000,6413,PECZwolle,ZWO
+29617,7788,SCCambuur,CAM
+29624,6433,GoAheadEagles,GAE
+30222,6631,FCDordrecht,DOR
+31443,10265,WisaKrakw,WIS
+31444,8031,PoloniaBytom,POB
+31445,8020,PoloniaBytom,GOR
+31446,1601,RuchChorzw,CHO
+31447,8673,LegiaWarszawa,LEG
+31448,2183,PWarszawa,PWA
+31449,8025,lskWrocaw,SLA
+31450,8030,LechiaGdask,LGD
+31451,8244,Widzewd,LOD
+31452,8242,OdraWodzisaw,ODR
+31453,2182,LechPozna,POZ
+31454,8569,GKSBechatw,BEL
+31455,8322,ArkaGdynia,ARK
+31456,1957,JagielloniaBiaystok,BIA
+31457,8028,PiastGliwice,PIG
+31458,2186,Cracovia,CKR
+31925,8245,KoronaKielce,KKI
+31928,8021,ZagbieLubin,ZAG
+32409,8024,Widzewd,WID
+32891,8033,PodbeskidzieBielskoBiaa,POD
+33377,8023,PogoSzczecin,POG
+33855,8027,ZawiszaBydgoszcz,ZAW
+34337,8019,Grnikczna,LEC
+34816,177361,TermalicaBrukBetNieciecza,TBN
+35283,9773,FCPorto,POR
+35284,9807,CFOsBelenenses,BEL
+35285,9768,SportingCP,SCP
+35286,7992,Trofense,TRO
+35287,7844,VitriaGuimares,GUI
+35288,10238,VitriaSetbal,SET
+35289,6403,FCPaosdeFerreira,FER
+35290,10264,SCBraga,BRA
+35291,10213,Amadora,AMA
+35292,10215,AcadmicadeCoimbra,ACA
+35293,7841,RioAveFC,RA
+35294,9772,SLBenfica,BEN
+35295,6421,LeixesSC,LEI
+35296,10214,CDNacional,NAC
+35297,9809,Naval1deMaio,NAV
+35298,10212,CSMartimo,MAR
+35769,9771,UniodeLeiriaSAD,ULE
+35774,2033,SCOlhanense,OLH
+36248,9765,Portimonense,POR
+36253,10211,SCBeiraMar,BM
+36723,4064,Feirense,FEI
+36735,9764,GilVicenteFC,GV
+37210,8348,MoreirenseFC,MOR
+37214,7842,EstorilPraia,EST
+37696,158085,FCArouca,ARO
+38173,6547,FCPenafiel,PEN
+38176,8613,BoavistaFC,BOA
+38789,6367,UniaodaMadeira,MAD
+38791,188163,Tondela,TON
+39387,8596,Falkirk,FAL
+39388,8548,Rangers,RAN
+39389,9860,HeartofMidlothian,HEA
+39390,9927,Motherwell,MOT
+39391,8597,Kilmarnock,KIL
+39392,10251,Hibernian,HIB
+39393,8485,Aberdeen,ABE
+39394,8066,InvernessCaledonianThistle,INV
+39395,9925,Celtic,CEL
+39396,9800,StMirren,MIR
+39397,8429,HamiltonAcademicalFC,HAM
+39398,9938,DundeeUnited,DUU
+39853,8467,StJohnstoneFC,JOH
+40757,8457,DunfermlineAthletic,DUN
+41216,8284,DundeeFC,DUF
+41217,8649,RossCountyFC,ROS
+41673,8426,PartickThistleFC,PAR
+43035,10267,ValenciaCF,VAL
+43036,8661,RCDMallorca,MAL
+43037,8371,CAOsasuna,OSA
+43038,10205,VillarrealCF,VIL
+43039,9783,RCDeportivodeLaCorua,COR
+43040,8633,RealMadridCF,REA
+43041,8388,CDNumancia,NUM
+43042,8634,FCBarcelona,BAR
+43043,8696,RacingSantander,SAN
+43044,8302,SevillaFC,SEV
+43045,9869,RealSportingdeGijn,SPG
+43046,8305,GetafeCF,GET
+43047,8603,RealBetisBalompi,BET
+43048,8479,RCRecreativo,HUE
+43049,8558,RCDEspanyol,ESP
+43050,10281,RealValladolid,VAL
+43051,8315,AthleticClubdeBilbao,BIL
+43052,9865,UDAlmera,ALM
+43053,9906,AtlticoMadrid,AMA
+43054,9864,MlagaCF,MAL
+43800,9868,XerezClubDeportivo,XER
+43803,8394,RealZaragoza,ZAR
+43804,9867,CDTenerife,TEN
+44557,10278,HrculesClubdeFtbol,HER
+44565,8581,LevanteUD,LEV
+44569,8560,RealSociedad,SOC
+45330,7878,GranadaCF,GRA
+45333,8370,RayoVallecano,RAY
+46087,9910,RCCeltadeVigo,CEL
+46848,10268,ElcheCF,ELC
+47605,8372,SDEibar,EIB
+47612,7869,CrdobaCF,COR
+48358,8306,UDLasPalmas,LAS
+49115,9956,GrasshopperClubZrich,GRA
+49116,6493,ACBellinzona,BEL
+49117,10192,BSCYoungBoys,YB
+49118,9931,FCBasel,BAS
+49119,9930,FCAarau,AAR
+49120,10179,FCSion,SIO
+49121,10199,FCLuzern,LUZ
+49122,9824,FCVaduz,VAD
+49123,7955,NeuchtelXamax,XAM
+49124,10243,FCZrich,ZUR
+49479,10190,FCStGallen,GAL
+49837,10191,FCThun,THU
+50201,9777,ServetteFC,SER
+50204,7730,FCLausanneSports,LAU
+51606,7896,Lugano,LUG
