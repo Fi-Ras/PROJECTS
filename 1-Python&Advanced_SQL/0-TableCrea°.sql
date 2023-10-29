@@ -1,3 +1,4 @@
+-- Active: 1686445526786@@127.0.0.1@3306@european_soccer_database
 -- Create Database 
 CREATE DATABASE European_Soccer_Database;
 
@@ -108,4 +109,16 @@ CREATE TABLE matches_2013_2014 (
     away_goal INT
 ) ;
 
+
+CREATE TABLE summer_medals (
+	Year INT, 
+    City VARCHAR(150),
+    Sport VARCHAR(150),
+    Discipline VARCHAR(150), 
+    Athlete VARCHAR(150), 
+    Country VARCHAR(150), 
+    Gender VARCHAR(50),
+    Event VARCHAR(150),
+    Medal VARCHAR(150)
+) ;
 -- INSERT values using the CSV files And My SQL or Using INSERT INTO 
