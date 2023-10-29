@@ -5,7 +5,6 @@ id,team_api_id,team_long_name,team_short_name
 20516,8543,Lazio,LAZ
 20517,8530,Catania,CAT
 20518,10233,Genoa,GEN
-20519,8533,Chievo Verona,CHI
 20521,8535,Fiorentina,FIO
 20522,9885,Juventus,JUV
 20523,8564,Milan,ACM
@@ -23,6 +22,5 @@ id,team_api_id,team_long_name,team_short_name
 22042,9880,Cesena,CES
 22805,6269,Novara,NOV
 23523,9878,Pescara,PES
-24273,9876,Hellas Verona,VER
 24288,7943,Sassuolo,SAS
 25048,8534,Empoli,EMP
